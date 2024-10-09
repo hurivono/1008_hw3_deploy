@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  homework3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-10T00:26:48.507092+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 8a227cef3bbf10ec07ddcf0e161a9df8a182b3be70d0554ba03b56c87a900d95
+    name: homework3
+    type: application
+    urls:
+    - https://github.com/hurivono/1008_homework.git/homework3-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-10T00:26:48.506554+09:00"
